@@ -6,3 +6,4 @@ df['total_sales'] = df['price'] * df['quantity']
 print("--- Sales Summary ---")
 print(df)
 print("\nTotal Revenue:", df['total_sales'].sum())
+print("hi")
